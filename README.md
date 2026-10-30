@@ -1,4 +1,4 @@
-# Lab-7-ROM-RAM
+# Lab-8-ROM-RAM
 
 Marina Falzone & Jared Rabadam
 
